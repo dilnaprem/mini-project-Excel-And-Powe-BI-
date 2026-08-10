@@ -1,4 +1,4 @@
-# Retail Store Sales Analysis
+# Excel And Power BI -Retail Store Sales Analysis
 
 ## About the Project
 
