@@ -89,6 +89,4 @@ It also gave me practical experience with **Excel and Power BI** for data analys
 
 ## Author
 
-**Dilna**
-
 **Mini Project – Excel And Power BI- Retail Store Sales Analysis**
