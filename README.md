@@ -87,6 +87,5 @@ This project helped me understand the complete process of working with data, fro
 
 It also gave me practical experience with **Excel and Power BI** for data analysis and visualization.
 
-## Author
 
 **Mini Project – Excel And Power BI- Retail Store Sales Analysis**
